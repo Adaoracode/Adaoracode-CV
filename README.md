@@ -1,79 +1,115 @@
-# casual-markdown-cv
+# Adaora Epunam
 
-[casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv) is a minimal way to create markdown resume and available online (github-page or other static web hosting)
+**Address:** 11 Udokwa Betty Close, Graceland Estate, Ajah Lagos  
+**Phone:** 09030777415  
+**Email:** adaoraepunam19@gmail.com  
 
-It is quite annoying to maintain resume in multiple format, MS Word, PDF, TXT as well as wanna to have an HTML format available online. 
+---
 
-Github markdown editor is very handy to draft a nice resume. Here is a sample template: [resume.md](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md).
+## 🎯 Career Profile
 
-just add a little code to transform into online resume with [nice look](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html) (hosted at github).
-
-then may print it to PDF file to send to recruiter, or share by url. (for github, it can accessed by raw.githack.com naturally)
-
-ps: recommended to ask ChatGPT for a refinement before published your resume. AI will refine both content and layout in markdown format.
-
-## Themes
-
-The following themes are available now
-
-* [resume.html](resume.html)  // default theme  [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html)
-* [resume-qrcode.html](resume-qrcode.html) // show QR code of URL [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-qrcode.html)
-* [resume-dark.html](resume-dark.html) // dark theme, font=verdana [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-dark.html)
-* [resume-warm.html](resume-warm.html) // warm theme, font=calibri [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-warm.html)
-* [resume-blue.html](resume-blue.html) // blue theme, font=arial [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-blue.html)
-* [resume-web.html](resume-web.html) // sample for web developer [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-web.html)
-
-Sorry for my poor UI design, if still not good enough, please fork this repo and make your own.
-
-## Usage
-
-just fork [this repo](https://github.com/casualwriter/casual-markdown-cv), and choose a resume template to revise.
-then check html layout by https://raw.githack.com/YOUR-REPO-NAME/casual-markdown-cv/main/resume.html
-
-by the way, this template basically use markdown as web page, which not limit for resume purpose. for example,
-
-* [document.html](document.html) // documentation [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/document.html)
-* [project-plan.html](project-plan.html) // project plan [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/project-plan.html)
-* [quotation.html](quotation.html) // Business Proposal and quotation [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/quotation.html)
-
-## How it works
-
-The code is simple, just add below (11 lines) as the header. It will convert the markdown content to HTML web page.
-
-```
-<!DOCTYPE html>
-<title>Resume</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
-<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
-<style>  
-  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:"Segoe UI",ARIAL; }
-  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:#f0f0f0; }
-  h2  { border-bottom:1px solid grey; padding:2px }
-</style>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
-<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
-
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-
-<span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
-</span>
-
-# Casualwriter
-
-```
-
-## Credit
-
-* inspired by https://github.com/youngyangyang04/Markdown-Resume-Template
-* thanks and reference to CV samples, https://www.resumewriter.hk/blog/cv-samples/
-
-(Sept 2022; minor updated on Aug 2023)
+Detail-oriented quality assurance professional with specialized experience in managing and improving quality within data annotation teams. Proven success in setting up QA frameworks that ensure the accuracy, consistency, and reliability of annotated datasets used in machine learning and AI development. Skilled in implementing scalable QA processes, developing team guidelines, and using quality control tools to drive continuous improvement. Adept at cross-functional collaboration with project managers, data scientists, and annotators to meet tight deadlines and exceed client quality standards. Committed to building high-performing teams and delivering data that strengthens model performance and aligns with regulatory and ethical standards.
 
 
+---
 
+## 🧠 Key Competencies
 
+- Process Optimization  
+- Quality Standards Compliance  
+- Root Cause Analysis  
+- Cross-Functional Collaboration  
+- Testing & Inspection  
+- QA Methodologies (Six Sigma, SPC)  
+- Regulatory Compliance  
+- Data Analysis  
 
+---
 
+## 💼 Experience
 
+### Quality Assurance Specialist (LLM)  
+**Hugotech Nigeria** | *March 2022 – Present*  
+- Conducted comprehensive quality evaluations of language datasets and annotations for a Large Language Model  
+- Collaborated with linguists and data scientists to develop and refine annotation guidelines  
+- Implemented QA methodologies to identify and rectify errors and inconsistencies in training data  
+- Utilized QA tools and frameworks to assess model performance and identify areas for improvement  
+- Worked closely with cross-functional teams to communicate QA findings and support model enhancement  
+- Contributed to the development of QA processes and best practices tailored to LLM projects  
+
+---
+
+### Data Annotation Specialist (Computer Vision Model)  
+**Hugotech Nigeria** | *February 2021 – March 2022*  
+- Used advanced analytic tools (e.g., Dataloop, SRT) to create training datasets for computer vision and NLP models  
+- Met with data and engineering teams to design new features for more efficient annotation  
+- QA-reviewed annotated data based on machine learning project guidelines  
+- Took regular training to stay up to date on annotation tools and techniques  
+- Informed the project manager of platform feature enhancements, risks, and issues  
+- Evaluated metrics to improve productivity  
+
+---
+
+### Technical Content Writer / Quality Assurance  
+**Hubstaff Talent** | *June 2020 – February 2021*  
+- Produced technical content (user guides, API docs, blog posts)  
+- Collaborated with technical experts to gather accurate content  
+- Created user-friendly documentation for complex technical topics  
+- Maintained content consistency and followed best practices  
+- Conducted peer reviews and edited for clarity and quality  
+
+---
+
+## 🏆 Achievements
+
+### Quality Enhancement  
+- Improved accuracy and reliability of LLM data by 18%  
+- Reduced data discrepancies by 24%, improving model performance  
+
+### Process Optimization  
+- Streamlined QA processes, cutting audit time by 40%  
+- Introduced automation tools to enhance annotation speed  
+
+### Leadership  
+- Led QA and data specialists team; provided training and mentoring  
+- Managed complex annotation projects and met deadlines consistently  
+
+### Defect Resolution  
+- Identified key defects in tools/process and ensured timely fixes  
+- Collaborated with devs to implement fixes that boosted model accuracy  
+
+### Collaboration  
+- Acted as link between annotators, QA managers, and dev teams  
+- Ensured compliance with data privacy policies in annotation work  
+
+### Client Satisfaction  
+- Frequently recommended by leads for high-quality data delivery  
+- Contributed directly to the success of LLM projects  
+
+---
+
+## 🎓 Education
+
+**University of Ibadan** — *2019*  
+**B.A. (Ed.) in English Language and Literature**  
+Second Class Upper  
+
+---
+
+## 📜 Training & Certifications
+
+- Statistical Process Control (SPC) Using Microsoft Excel  
+- Advanced Applied Google Digital Skills  
+- LinkedIn Creative Collaboration  
+- Malware: Phishing Attack and Defense  
+- Data Privacy Course  
+- Introduction to Project Management  
+- One-year Web-Based Leadership Program (Knowles Educational Trust)  
+
+---
+
+## 💖 Hobbies & Interests
+
+- **Volunteering** – Mental health outreach with TAVI (The Avalanche Initiative)  
+- **Traveling**  
+- **Reading**  
