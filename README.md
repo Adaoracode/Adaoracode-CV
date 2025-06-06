@@ -8,108 +8,108 @@
 
 ## 🎯 Career Profile
 
-Detail-oriented quality assurance professional with specialized experience in managing and improving quality within data annotation teams. Proven success in setting up QA frameworks that ensure the accuracy, consistency, and reliability of annotated datasets used in machine learning and AI development. Skilled in implementing scalable QA processes, developing team guidelines, and using quality control tools to drive continuous improvement. Adept at cross-functional collaboration with project managers, data scientists, and annotators to meet tight deadlines and exceed client quality standards. Committed to building high-performing teams and delivering data that strengthens model performance and aligns with regulatory and ethical standards.
-
+Detail-oriented quality assurance professional with a solid foundation in managing and optimizing data annotation workflows. Experienced in driving quality standards for machine learning datasets across natural language processing and computer vision projects. Adept at applying QA methodologies, collaborating with cross-functional teams, and ensuring compliance with project requirements. Currently building core skills in data analysis to enhance insight generation, improve annotation accuracy, and support data-driven improvements across quality assurance processes.
 
 ---
 
-## 🧠 Key Competencies
+## 🧰 Key Competencies
 
 - Process Optimization  
 - Quality Standards Compliance  
 - Root Cause Analysis  
-- Cross-Functional Collaboration  
-- Testing & Inspection  
+- Cross-Functional Collaboration   
 - QA Methodologies (Six Sigma, SPC)  
-- Regulatory Compliance  
-- Data Analysis  
+- Regulatory Compliance
+- Basic Data Analysis 
 
 ---
 
-## 💼 Experience
+## 🏢 Experience
 
-### Quality Assurance Specialist (LLM)  
-**Hugotech Nigeria** | *March 2022 – Present*  
-- Conducted comprehensive quality evaluations of language datasets and annotations for a Large Language Model  
-- Collaborated with linguists and data scientists to develop and refine annotation guidelines  
-- Implemented QA methodologies to identify and rectify errors and inconsistencies in training data  
-- Utilized QA tools and frameworks to assess model performance and identify areas for improvement  
-- Worked closely with cross-functional teams to communicate QA findings and support model enhancement  
-- Contributed to the development of QA processes and best practices tailored to LLM projects  
+### **Quality Assurance Specialist (LLM)**  
+**Hugotech Nigeria | March 2022 – Present**
 
----
+- Conducted comprehensive quality evaluations of language datasets and annotations for a Large Language Model.  
+- Collaborated with linguists and data scientists to develop and refine annotation guidelines.  
+- Implemented QA methodologies to identify and rectify errors and inconsistencies in training data.  
+- Utilized QA tools and frameworks to assess model performance, identifying areas for improvement.  
+- Began applying foundational data analysis skills to identify annotation trends and error patterns for informed QA recommendations.  
+- Contributed to the development of QA processes and best practices tailored to LLM projects.
 
-### Data Annotation Specialist (Computer Vision Model)  
-**Hugotech Nigeria** | *February 2021 – March 2022*  
-- Used advanced analytic tools (e.g., Dataloop, SRT) to create training datasets for computer vision and NLP models  
-- Met with data and engineering teams to design new features for more efficient annotation  
-- QA-reviewed annotated data based on machine learning project guidelines  
-- Took regular training to stay up to date on annotation tools and techniques  
-- Informed the project manager of platform feature enhancements, risks, and issues  
-- Evaluated metrics to improve productivity  
+### **Data Annotation Specialist (Computer Vision Model)**  
+**Hugotech Nigeria | February 2021 – March 2022**
 
----
+- Used analytic tools such as Dataloop and SRT to create datasets for computer vision models.  
+- Designed new features in collaboration with engineering teams to improve annotation workflows.  
+- QA’d annotated data based on project-specific guidelines and model feedback.  
+- Engaged in continuous learning, including data visualization and spreadsheet-based analysis, to strengthen project insights.  
+- Provided feedback to PMs on platform enhancements, productivity risks, and annotation performance.  
 
-### Technical Content Writer / Quality Assurance  
-**Hubstaff Talent** | *June 2020 – February 2021*  
-- Produced technical content (user guides, API docs, blog posts)  
-- Collaborated with technical experts to gather accurate content  
-- Created user-friendly documentation for complex technical topics  
-- Maintained content consistency and followed best practices  
-- Conducted peer reviews and edited for clarity and quality  
+### **Technical Content Writer / Quality Assurance**  
+**Hubstaff Talent | June 2020 – February 2021**
+
+- Created user-friendly technical content such as manuals, API docs, and product guides.  
+- Partnered with engineers to ensure documentation accuracy.  
+- Maintained consistency and quality across technical content.  
+- Conducted peer reviews and edited documents for clarity and usability.
 
 ---
 
 ## 🏆 Achievements
 
-### Quality Enhancement  
-- Improved accuracy and reliability of LLM data by 18%  
-- Reduced data discrepancies by 24%, improving model performance  
+**Quality Enhancement**  
+- Increased annotation accuracy by 18% through effective QA methodologies.  
+- Reduced discrepancies by 24%, enhancing model performance.  
 
-### Process Optimization  
-- Streamlined QA processes, cutting audit time by 40%  
-- Introduced automation tools to enhance annotation speed  
+**Process Optimization**  
+- Streamlined QA processes and cut audit time by 40%.  
+- Introduced basic automation and spreadsheet-based analysis for annotation review.  
 
-### Leadership  
-- Led QA and data specialists team; provided training and mentoring  
-- Managed complex annotation projects and met deadlines consistently  
+**Leadership**  
+- Mentored and trained QA specialists and annotators.  
+- Managed high-volume annotation workflows.  
 
-### Defect Resolution  
-- Identified key defects in tools/process and ensured timely fixes  
-- Collaborated with devs to implement fixes that boosted model accuracy  
+**Defect Resolution**  
+- Resolved major QA process issues, improving model accuracy.  
+- Supported defect reporting using data-informed analysis.  
 
-### Collaboration  
-- Acted as link between annotators, QA managers, and dev teams  
-- Ensured compliance with data privacy policies in annotation work  
+**Collaboration**  
+- Worked with privacy, QA, and dev teams to maintain compliance and effectiveness.  
 
-### Client Satisfaction  
-- Frequently recommended by leads for high-quality data delivery  
-- Contributed directly to the success of LLM projects  
+**Client Satisfaction**  
+- Delivered high-quality datasets that met client benchmarks and earned recommendations.
 
 ---
 
 ## 🎓 Education
 
-**University of Ibadan** — *2019*  
-**B.A. (Ed.) in English Language and Literature**  
-Second Class Upper  
+**University of Ibadan**  
+*BAEd English Language and Literature (2019)*  
+*Second Class Upper*
 
 ---
 
 ## 📜 Training & Certifications
 
 - Statistical Process Control (SPC) Using Microsoft Excel  
-- Advanced Applied Google Digital Skills  
-- LinkedIn Creative Collaboration  
-- Malware: Phishing Attack and Defense  
-- Data Privacy Course  
-- Introduction to Project Management  
-- One-year Web-Based Leadership Program (Knowles Educational Trust)  
+- Google Digital Skills Certification  
+- LinkedIn Creative Collaboration Course  
+- Malware: Phishing Attacks & Defense  
+- Data Privacy Certification  
+- Project Management Certification Course
+- Web-Based Leadership Course (Knowles Educational Trust for International Leadership)  
+- **Currently enrolled in a full stack data professional course:**
+ Data Analysis,
+ Data Science/ML,
+  Data engineering,
+  Cloud and DevOps
+
 
 ---
 
-## 💖 Hobbies & Interests
+## 💡 Hobbies / Interests
 
-- **Volunteering** – Mental health outreach with TAVI (The Avalanche Initiative)  
-- **Traveling**  
-- **Reading**  
+- Volunteering with TAVI to support mental health in secondary schools
+- Partner with Tugeddah Ltd to provide coaching and upskilling support to youths transitioning into tech careers within the community.
+- Traveling  
+- Reading and self-paced learning in data and tech
